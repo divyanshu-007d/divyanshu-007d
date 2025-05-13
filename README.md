@@ -1,4 +1,4 @@
-[![BentoHub grid image](https://cloud.appwrite.io/v1/storage/buckets/667d390e003b1971a8be/files/67ae67d800195987c6c6/preview?project=667d35ca0017fb21fc6c)](https://divyanshu-dubey.web.app)
+[![BentoHub grid image](https://bramhasmi.com/logo-no-background.png)](https://divyanshu-dubey.web.app)
 
 # 💻 Tech Stack
 
