@@ -1,4 +1,4 @@
-[![BentoHub grid image](https://freeimage.host/i/3SYfj19)](https://divyanshu-dubey.web.app)
+[![BentoHub grid image](https://iili.io/3SYfj19.png)](https://divyanshu-dubey.web.app)
 
 # 💻 Tech Stack
 
