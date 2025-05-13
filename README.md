@@ -1,4 +1,4 @@
-[![BentoHub grid image](https://bramhasmi.com/logo-no-background.png)](https://divyanshu-dubey.web.app)
+[![BentoHub grid image](https://freeimage.host/i/3SYfj19)](https://divyanshu-dubey.web.app)
 
 # 💻 Tech Stack
 
